@@ -9,9 +9,8 @@ team has its own way of doing its job. Tasks at an airport can be easy or hard, 
 the team is practicing. But for all situations, we need something called a 'task engine' to manage
 the tasks.
 
-Key features
+Key features or project are:
 
-Implementation of:
-• File Handling techniques in Java
-• Threading in Java
-• Graphical User Interface in Java
+• Implementation of File Handling techniques in Java
+• Using Threads in Java
+• Designing Graphical User Interface in Java
